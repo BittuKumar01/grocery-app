@@ -1,5 +1,7 @@
 # Virtual Internship(SmartInternz) - Android Application Development Using Kotlin
-Github ID - BittuKumar01 
+Github ID - https://github.com/BittuKumar01
+
+Linked In - Http://www.linkedin.com/in/bittu-kumar01
 
 # Grocery-App
 
