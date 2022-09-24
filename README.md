@@ -1,4 +1,4 @@
-# Virtual Internship(SmartInternz) - Android Application Development Using Kotlin
+# Virtual Internship (SmartInternz) - Android Application Development Using Kotlin
 Github ID - https://github.com/BittuKumar01
 
 Linked In - Http://www.linkedin.com/in/bittu-kumar01
