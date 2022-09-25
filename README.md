@@ -12,13 +12,13 @@ There are many pre-existing grocery list apps, but all of them don’t get worth
 
 In this project, we are using MVVM (Model View ViewModel) for architectural patterns, Room for database, Coroutines and RecyclerView to display the list of items. Before jumping to the project let’s understand these terms.
 
-#* MVVM (Model View ViewModel)
+# * MVVM (Model View ViewModel)
 MVVM architecture in android is used to give structure to the project’s code and understand code easily. MVVM is an architectural design pattern in android. MVVM treat Activity classes and XML files as View. This design pattern completely separate UI from its logic. Here is an image to quickly understand MVVM.
-#* ROOM DataBase
+# * ROOM DataBase
 Room persistence library is a database management library and it is used to store the data of apps like grocery item name, grocery item quantity, and grocery item price. Room is a cover layer on SQLite which helps to perform the operation on the database easily.
  
-#* RecycleView
+# * RecycleView
 RecyclerView is a container and it is used to display the collection of data in a large amount of data set that can be scrolled very effectively by maintaining a limited number of views.
 
-#* Coroutines
+# * Coroutines
 Coroutines are a lightweight thread, we use a coroutine to perform an operation on other threads, by this our main thread doesn’t block and our app doesn’t crash.
